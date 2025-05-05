@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dravinslaggian/"}
+{"dg-publish":true,"permalink":"/Dravinslaggian/"}
 ---
 
 ### People of [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Gondwana/Dravinslagg/Dravinslagg\|Dravinslagg]]: Attitudes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-view/"}
+{"dg-publish":true,"permalink":"/Player View/"}
 ---
 
 ### Player View
