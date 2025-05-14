@@ -11,4 +11,7 @@
 > Due to the richness of the soil within [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Gondwana/Dravinslagg/Dravinslagg\|Dravinslagg]], many races thrived together in harmony within the temperate climate of the nation. Most notably when the phrase "[[Dravinslaggian\|Dravinslaggian]]" comes to mind, one thinks of [[Yuan-Ti\|Yuan-Ti]], [[Drow\|Drow]] and [[Hobgoblin\|Hobgoblins]]. That's not to say there aren't other races in there aswell but it is not commonly associated with [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Gondwana/Dravinslagg/Dravinslagg\|Dravinslagg]]. This can be an extreme social benefit to not be thought of as [[Dravinslaggian\|Dravinslaggian]] in certain situations.
 
 #### Fun Facts!
-* They're known to be really good storytellers! Some that aquire legal documentation and don't face a ton of discrimination tend to go into clubs as bards or storytellers. Tales of the [[Dravinslaggian Empire\|Dravinslaggian Empire]] are so comically evil, many believe it to be fiction. If only that was the case. 
+* They're known to be really good storytellers! Some that aquire legal documentation and don't face a ton of discrimination tend to go into clubs as bards or storytellers. Tales of the [[Dravinslaggian Empire\|Dravinslaggian Empire]] are so comically evil, many believe it to be fiction. If only that was the case.
+
+### Dictatorship
+The Iron Empire is naturally devoid of magic. Due to 
