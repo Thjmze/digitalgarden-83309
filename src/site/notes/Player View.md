@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Player View/"}
+{"dg-publish":true,"permalink":"/Player View/","tags":["gardenEntry"]}
 ---
 
 ### Player View
