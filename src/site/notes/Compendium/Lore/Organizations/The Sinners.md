@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendium/Lore/Organizations/The Sinners/","tags":[null]}
+{"dg-publish":true,"permalink":"/Compendium/Lore/Organizations/The Sinners/"}
 ---
 
 
