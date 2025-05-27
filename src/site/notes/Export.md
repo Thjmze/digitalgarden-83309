@@ -3,6 +3,60 @@
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/House Rules/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Homebrew Rule Reference
+
+## 1. Character Creation Rules
+- Everyone gains one free feat at 1st level (cannot be traded for an ASI); the **Lucky** feat is banned.
+- Variant Human/Custom Lineage  is not allowed.
+- Ability scores must use **standard array** or **point-buy**.
+- All class features, rolls, and stats must be on your Roll20 sheet, even if you also use D&D Beyond.
+- Sessions proceed with at least four players present.
+## 2. Resource & Equipment Simplifications
+- Ammunition isn’t tracked; buy more whenever you visit a shop.
+- Material components are ignored—except when you need an item over 100gp to complete the spell
+## 3. Class-Specific Tweaks
+### Barbarian
+- Bonus Action: You may strike yourself, taking damage equal to **half your barbarian level (rounded up)** to keep Rage active.
+## 4. Spell Variants
+### Phantasmal Force
+- The illusion can impose a fitting **secondary condition** (e.g., water-filled diving helmet → **Deafened**).
+- An illusion cannot impose two conditions at the same time (eg. Iron Maiden can only impose either a. Restrained or b. Blinded)
+- The phantasm **moves with the target** even if that creature moves 15 ft.; it exists only within the victim’s mind.
+## 5. Skill & Insight Rules
+- Insight checks are rolled **secretly**
+## 6. Traps & Environmental Interactions
+- **Trap “click”**: When a trap readies, everyone  within the trap's effective range hears a click and may take **one stationary reaction** (e.g., crouch, raise shield). The choice may raise or lower the trap’s save DC, depending on the trap. For example crouching may reduce the DC on an over-head trap but heighten the DC on a false-floor trap
+- **Falling onto a creature**:
+  • Target makes a Dex save.  
+    – **Success**: You take normal fall damage; target shifts 5 ft. in any direction.  
+    – **Failure**: Same, **plus** the target also takes **double** the fall damage you suffered.
+## 7. Combat Actions & Mechanics
+- **Natural 20 on Initiative**: You may place yourself anywhere in the initiative order.
+- **Player Critical Hits**: Roll damage normally, then **add the maximum value of the damage dice**.  
+  *Example: Longsword crit → 1d8 + STR + 8.*
+- **Last Stand**: While making death saves you may instantly **fail 2** saves to take **one action** (no self-healing).  
+  • Attacks auto-hit and crit.  
+  • Spells are cast two levels higher without using a slot.
+- **Hidden HP & Death Saves**:  
+  • HP is described narratively (“bleeding heavily”); numbers stay secret from other players.  
+  • Death saves are rolled **to GM only**.  
+  • *When casting a healing spell*, you may reveal HP to avoid overheal.
+- **Healing Options**:  
+  • **Out of combat**: all healing dice with the exception of short rest are treated as maximum.  
+  • **In combat**: choose **bonus action (roll)** or **action (max)**
+- **Magical Revival**: Any magical healing immediately restores consciousness if (1) HP regained exceeds negative HP **and** (2) incapacitation was caused by damage (not effects like *Hypnotic Pattern*).
+## 8. Death & Narrative Flavor
+- Whenever you roll a death save—pass **or** fail—describe a memory that flashes before your eyes.
+
+
+</div></div>
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Compendium/Lore/Events/Ragnarok/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -55,16 +109,6 @@ ___
 { .block-language-dataview}
 
 
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Compendium/Lore/Misc Lore/Lore In Campaigns Past/The Flashborn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-> The Flashborn is the unofficial name of a series of people who were the first to experience the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]]. These individuls were forcibly taken from their current location when a portal opened up nearby. The most notable member is [[Ilya\|Ilya]] who has a connection with [[Compendium/Party/Player Characters/Star\|Star]]. Once they entered these portals, they were taken into a version of [[Earth\|Earth]] in the year 2017. [[Ichico Nemuri\|Ichico Nemuri]] and [[Mico Vorgeil\|Mico Vorgeil]] explained they had summoned them here to help them stop the ongoing [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. The whole world was only able to continue existing thanks to [[Shield Of Aegis\|Shield Of Aegis]] which had expanded to a giant size over the African Continent. With the promise of gold, a world on the brink of existence and begging, the Flashborn took the task of defeating [[Sol\|Sol]]. To do this, they were instructed to break into a facility in Germany, steal a rocket, use [[UMA MOVE\|UMA MOVE]] to fire that rocket into space and activate the [[New Eve Project\|New Eve Project]] and fire it into [[Sol\|Sol]]. When they broke in, they had to fight against [[Shen Xiang\|Shen Xiang]] and [[Chikara Shiogen\|Chikara Shiogen]] who were being forced to fight them by [[UMA SOUL\|UMA SOUL]]. They also briefly fought [[Tella Fren\|Tella Fren]] After that battle, they solved a puzzle to unlock the rocket sequence, entered Mars and took note of [[Xilonen Yakche\|Xilonen Yakche]], [[Mico Vorgeil\|Mico Vorgeil]]'s ex boyfriend who despite all the intelligence in the world, lacked the basic emotional insight to understand her needs. After fighting an invisible [[Sean Datz\|Sean Datz]], they broke into the core of the [[New Eve Project\|New Eve Project]] and de-stablized the anti-matter core. This alongside some clever positioning allowed them to fire it straight into the "Sun" which turned out to be an egg or container for [[Sol\|Sol]]. Before getting knocked out, it created [[UMA\|UMA]] Fantasy and [[UMA\|UMA]] Magic before exiling them from its world, changing the genre of [[Earth\|Earth]] to be more fantastical in nature. Before it was knocked unconsious, it also enacted [[Sol's Reformation Plan\|Sol's Reformation Plan]]. The Flashborn themselves were exhiled to their respective home-planes and branded with a mark of Sol. Giving them an age-less immortality. 
 
 </div></div>
 
@@ -290,6 +334,84 @@ ___
 </div></div>
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+---
+type: notes
+locations:
+- "[[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Vanyra/Vanyra\|Vanyra]]"
+tags:
+- combat
+- location/city
+headerLink: "[[Session Notes/Session 07 (2025-04-26)#Session 07\|Session 07 (2025-04-26)]]"
+---
+
+![[session.png\|banner]]
+###### Session 07
+<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: []</span>
+___
+
+> [!quote|no-t] SUMMARY
+>Session 7 Summary:  The simulation begins. On choosing two fights, the party chooses the easier fight at first, and the harder fighter afterwards.  The easier fight is one against a captain of longer ago -  [[Compendium/Lore/Misc Lore/Cixen Liu\|Cixen Liu]].  The [[Compendium/Lore/Organizations/Iron Shadow\|Iron Shadow]] members are then met with a swift end, with the final foe dissolving in acid.  Two figures, a woman and child watch in the distance as the simulation ends, their faces sewen onto mannequins.    Immediately jumping into the next simulation, the party finds themselves at a dungeon named '[[The Ruins of Xilabia\|The Ruins of Xilabia]]'. Two guardians are in the ruins, named Bacchus and Argos, and the party is expected to undergo the test of Pythagoras - to defeat them in battle. A sharp volley of arrows come, hurting [[Compendium/Party/Player Characters/Card\|Card]], but the party makes quick work of Bacchus, and shifts over to Argos, who also shoots a lightning enchanted arrow into the air.  The arrow warps [[Compendium/Party/Player Characters/Card\|Card]] and [[Compendium/Party/Player Characters/Johannes\|Johannes]] to other spaces, where the fight continues. Unfortunately, both [[Compendium/Party/Player Characters/Johannes\|Johannes]] and [[Compendium/Party/Player Characters/Vivienne La Tour\|Vivi]] keep entering the wrong space to aid in the fight for a while, before finishing the combat simulation.   And so, the Sub One Club are now official adventurers in this world, able to take on commissions from the guild. There are currently three quests on the board that seem good: Catching a Frost Salamander for a date in 3 days, finding a missing tome with a modified Fireball spell, and an urgent quest for a crypt clearing.  There's also looking for [[Baam\|Baam]] and a few other projects, and so the party is left deliberating what to do.
+#### marker
+> [!column|flex 3]
+>> [!info|felx] NPC'S:
+>> - [[Characters\|Characters]] (status)
+>
+>> [!example|flex] LOCATIONS:
+>> - [[Locations\|Locations]] (status)
+>
+>> [!important|flex] QUESTS:
+>> - [[Quests\|Quests]] (status)
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+![[session.png\|banner]]
+###### Session 08
+<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: [#combat, #location/generalRegion]</span>
+___
+
+> [!quote|no-t] SUMMARY
+>Session 8 Summary:  The party decides to do some shopping before starting out on a quest. At the forge, managed by a fire elemental, [[Compendium/Party/Player Characters/Vivienne La Tour\|Vivi]] uses most of her money for additional weapons and armor, [[Compendium/Party/Player Characters/Card\|Card]] resupplies their javelins for a steal, and [[Compendium/Party/Player Characters/Johannes\|Johannes]] exchanges one of his revolvers with a hand crossbow, and accompanying ammo. At the magic item shop, managed by a harengon, [[Hon Rosie Booker\|Hon Rosie Booker]], who has a grandson who wants to enroll in a wizard's academy. Minthe talks about her own past as an artificer as well, buying a pair of night owl's half-moon spectacles and a stuffed familiar, with a luna moth cape on hold, and a glass carver watched. The artificer who made the glasses is named Luo Ji. She also lends Hon some teaching materials for the grandson.  Back at the adventurer's guild, Eleena (the one on the right, the one on the left is Allayna) is quite busy with other adventurers, and The Sub One Club officially accepts their first commission, to help a man get some frost salamander meat. On the way to the location of the salamander, they come across a group of drunken bards, and Vivi, Card, and Minthe get drunk, and Card taking an additional scotch, enters a nightmare of the past, where a dragon attacks a brewmaster's home.  
+>> [!info]- Flashback  
+> You feel a nauseating feeling come over you, your vision goes black and you wake up as a Brewmaster checking up on his wine cellar/distillery. You hear two giant booms outside and you rush to your bedroom door to look outside. When you look outside through your bedroom window, the sky is a deep shade of red and you see two extremely big pillars fashioned in the shape of hammers within 40km of your little abode. On top of it seems to be an object you can't make out. As you feel a small sense of safety, a dragon's claw seems to hit the top of this structure and a shockwave is created. You duck for cover as the glass of your window seems to shatter. Picking yourself up from the fragments, you see fire rapidly spreading out towards your home. The luscious green landscape now set ablaze (likely spread as a result of the shockwave)
+> 
+>Entering the cave, the party comes across two frost salamanders. However, while it may seem some headway is made, the frost salamanders proved to be too much for the party, and so they made a hasty retreat to give a report to the adventurer's guild over a reassessment of the difficulty.
+
+#### marker
+> [!column|flex 3]
+>> [!info|felx] NPC'S:
+>> - [[Characters\|Characters]] (status)
+>
+>> [!example|flex] LOCATIONS:
+>> - [[Locations\|Locations]] (status)
+>
+>> [!important|flex] QUESTS:
+>> - [[Quests\|Quests]] (status)
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Compendium/Lore/Misc Lore/Lore In Campaigns Past/The Flashborn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> The Flashborn is the unofficial name of a series of people who were the first to experience the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]]. These individuls were forcibly taken from their current location when a portal opened up nearby. The most notable member is [[Ilya\|Ilya]] who has a connection with [[Compendium/Party/Player Characters/Star\|Star]]. Once they entered these portals, they were taken into a version of [[Earth\|Earth]] in the year 2017. [[Ichico Nemuri\|Ichico Nemuri]] and [[Mico Vorgeil\|Mico Vorgeil]] explained they had summoned them here to help them stop the ongoing [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. The whole world was only able to continue existing thanks to [[Shield Of Aegis\|Shield Of Aegis]] which had expanded to a giant size over the African Continent. With the promise of gold, a world on the brink of existence and begging, the Flashborn took the task of defeating [[Sol\|Sol]]. To do this, they were instructed to break into a facility in Germany, steal a rocket, use [[UMA MOVE\|UMA MOVE]] to fire that rocket into space and activate the [[New Eve Project\|New Eve Project]] and fire it into [[Sol\|Sol]]. When they broke in, they had to fight against [[Shen Xiang\|Shen Xiang]] and [[Chikara Shiogen\|Chikara Shiogen]] who were being forced to fight them by [[UMA SOUL\|UMA SOUL]]. They also briefly fought [[Tella Fren\|Tella Fren]] After that battle, they solved a puzzle to unlock the rocket sequence, entered Mars and took note of [[Xilonen Yakche\|Xilonen Yakche]], [[Mico Vorgeil\|Mico Vorgeil]]'s ex boyfriend who despite all the intelligence in the world, lacked the basic emotional insight to understand her needs. After fighting an invisible [[Sean Datz\|Sean Datz]], they broke into the core of the [[New Eve Project\|New Eve Project]] and de-stablized the anti-matter core. This alongside some clever positioning allowed them to fire it straight into the "Sun" which turned out to be an egg or container for [[Sol\|Sol]]. Before getting knocked out, it created [[UMA\|UMA]] Fantasy and [[UMA\|UMA]] Magic before exiling them from its world, changing the genre of [[Earth\|Earth]] to be more fantastical in nature. Before it was knocked unconsious, it also enacted [[Sol's Reformation Plan\|Sol's Reformation Plan]]. The Flashborn themselves were exhiled to their respective home-planes and branded with a mark of Sol. Giving them an age-less immortality. 
+
+</div></div>
 
 
 
