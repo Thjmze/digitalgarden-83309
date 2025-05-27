@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendium/Party/Player Characters/Card/","tags":["class/barbarian","race/tiefling"]}
+{"dg-publish":true,"permalink":"/Compendium/Party/Player Characters/Card/","tags":["class/barbarian","race/tiefling",null]}
 ---
 
 
@@ -7,7 +7,7 @@
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Still my withering heart yearns for peace and mercy. But I'm ready for revolution now so let the blood stain the ground :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Achillea.jpg\|Achillea.jpg]]
+> ![Achillea.png](/img/user/Assets/Images/Party/Achillea.png)
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -25,7 +25,7 @@ ___
 ### Justice
 The corrupt who abuse their power must fall if we are to live in a better world. Specifically she wants proper burials for her Tiefling brethren, and for the death of the Paladins that did all this to her Tiefling village. 
 ### Romance
-Believes herself bisexual as she had not found any attraction towards either sex. Most likely acesexual or aromantic. 
+Believes herself bisexual as she had not found any attraction towards either sex. Most likely asexual or aromantic. 
  
 #### marker
 > [!column|flex 3]

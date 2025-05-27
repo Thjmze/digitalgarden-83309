@@ -7,7 +7,7 @@
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: "It is better to die on your feet than live on your knees" :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[JOHANNES.png\|JOHANNES.png]]
+> ![JOHANNES.png](/img/user/Assets/Images/Party/Johannes.png)
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

@@ -7,7 +7,7 @@
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Chaos is the natural order :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[Star.jpg\|Star.jpg]]
+> ![Star.png](/img/user/Assets/Images/Party/Star.png)
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

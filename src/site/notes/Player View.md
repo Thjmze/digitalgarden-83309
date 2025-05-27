@@ -10,7 +10,7 @@
 [[Session Notes/Session 02 (2025-02-01)\|Session 02 (2025-02-01)]]
 [[Session Notes/Session 01 (2025-01-02)\|Session 01 (2025-01-02)]]
 [[Compendium/Party/Player Characters/Johannes\|Johannes]]]
-[[Compendium/Party/Player Characters/Vivienne La Tour  \|Vivienne La Tour  ]]
+[[Vivienne La Tour  \|Vivienne La Tour  ]]
 [[Compendium/Party/Player Characters/Card\|Card]]
 [[Compendium/Party/Player Characters/Star\|Star]]
 [[Minthe Thistlestep\|Minthe Thistlestep]]

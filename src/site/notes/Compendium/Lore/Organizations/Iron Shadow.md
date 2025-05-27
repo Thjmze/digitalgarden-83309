@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendium/Lore/Organizations/Iron Shadow/"}
+{"dg-publish":true,"permalink":"/Compendium/Lore/Organizations/Iron Shadow/","tags":["villain Sinner-Affiliation domain:Drugs"]}
 ---
 
 
@@ -14,7 +14,6 @@ The Iron Shadow is a major criminal organization on Earth. Formed nearly 200 yea
 #### marker
 > [!column|flex 3]
 >>[!hint]- NPC's
-- [[Compendium/NPC's/Rythe Sterling#Rythe Sterling\|Rythe Sterling > Rythe Sterling]]
 
 { .block-language-dataview}
 >>[!note]- HISTORY
