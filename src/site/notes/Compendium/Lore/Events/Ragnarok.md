@@ -30,7 +30,7 @@ ___
 > Cults rise in the dragon’s shadow, their followers prostrating themselves before the coming fire. They whisper of rebirth, of a world purged and renewed—a phoenix rising from the cinders. They call it mercy. They call it destiny.
 > But the truth remains:
 > **There is not a single soul untouched by its wrath.**
-> Some still hope. They tell themselves the dragon will sleep forever. That when it wakes, it will turn its hunger elsewhere. Thata force like the —**[[Lore In Campaigns Past/The Flashborn\|The Flashborn]]**, will descend like a bolt of lightning to save them.
+> Some still hope. They tell themselves the dragon will sleep forever. That when it wakes, it will turn its hunger elsewhere. Thata force like the —**[[Compendium/Lore/Misc Lore/Lore In Campaigns Past/The Flashborn\|The Flashborn]]**, will descend like a bolt of lightning to save them.
 > But deep down, they know\
 >A final dawn approaches
 >And this time, there is no force strong enough to break it. 
