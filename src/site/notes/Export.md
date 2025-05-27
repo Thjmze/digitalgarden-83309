@@ -14,7 +14,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg|right wm-sm](/img/user/Assets/Images/embed.jpg) The ground trembles beneath the dragon’s shadow, its wings vast enough to blot out the sun—yet no shade comes, only the unbearable radiance of its presence. The air shimmers with heat, warping the ruins of cities into grotesque mirages. The [[Aegis\|Aegis]], that colossal shield suspended between heaven and earth, glows white-hot, its edges dripping molten metal like falling stars. The pillars that hold it groan under the strain, their celestial foundations trembling.
+>![[embed.jpg\|right wm-sm]] The ground trembles beneath the dragon’s shadow, its wings vast enough to blot out the sun—yet no shade comes, only the unbearable radiance of its presence. The air shimmers with heat, warping the ruins of cities into grotesque mirages. The [[Aegis\|Aegis]], that colossal shield suspended between heaven and earth, glows white-hot, its edges dripping molten metal like falling stars. The pillars that hold it groan under the strain, their celestial foundations trembling.
 >Beneath it, the world burns in slow motion.
 >Mages gather in desperate circles, their hands raised to the bleeding sky, chanting spells that flicker and die in the dragon’s breath. Some try to summon storms, only for the rain to evaporate before it touches the ground. Others weave barriers of ice and shadow, but the heat unravels them like thread in a furnace. A few, maddened by the scale of the catastrophe, turn their magic inward—blinding themselves rather than witness the end.
 >The streets are rivers of panic. People run, though there is nowhere left to flee. Buildings crumble into ash at a touch. The air itself is poison, searing lungs with every breath. Some fall to their knees, praying to gods who do not answer. Others scream, their voices lost beneath the roar of the inferno. A child clutches a charred doll, its glass eyes melted shut. A soldier, armor fused to his skin, stumbles forward before collapsing into embers.
@@ -75,7 +75,7 @@ ___
 
 
 
-![session.png|banner](/img/user/Assets/Images/session.png)
+![[session.png\|banner]]
 ###### Session 1
 <span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: []</span>
 ___
@@ -108,7 +108,7 @@ ___
 
 
 
-![session.png|banner](/img/user/Assets/Images/session.png)
+![[session.png\|banner]]
 ###### Session 02
 <span class="sub2">:FasSun: DAY 01 &nbsp; | &nbsp; :FasTags: []</span>
 ___
@@ -143,7 +143,7 @@ ___
 
 
 
-![session.png|banner](/img/user/Assets/Images/session.png)
+![[session.png\|banner]]
 ###### Session O3 
 <span class="sub2">:FasSun: DAY 01 &nbsp; | &nbsp; :FasTags: []</span>
 ___
@@ -176,7 +176,7 @@ ___
 
 
 
-![session.png|banner](/img/user/Assets/Images/session.png)
+![[session.png\|banner]]
 ###### Session 04
 <span class="sub2">:FasSun: DAY 02 &nbsp; | &nbsp; :FasTags: []</span>
 ___
@@ -214,7 +214,7 @@ ___
 
 
 
-![session.png|banner](/img/user/Assets/Images/session.png)
+![[session.png\|banner]]
 ###### Session O2
 <span class="sub2">:FasSun: DAY 03 &nbsp; | &nbsp; :FasTags: []</span>
 ___
