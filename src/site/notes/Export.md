@@ -127,9 +127,9 @@ ___
 > [!quote|no-t] SUMMARY
 >The story begins at the aforementioned [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/portal\|portal]] of our party's primary realm starrting [[Minthe Thistlestep\|Minthe Thistlestep]], [[Compendium/Party/Player Characters/Johannes\|Johannes]], [[Compendium/Party/Player Characters/Star\|Star]], [[Vivienne La Tour  \|Vivienne La Tour  ]]], and [[Compendium/Party/Player Characters/Card\|"Wild Card"]]. All of them were contacted in some way or another during the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]] by different parties and asked/ordered to come here with the notable exception of [[Vivienne La Tour  \|Vivienne La Tour  ]]. When they see many people seemingly unable to enter the portal, including some very powerful individuals, they decide to try and get in. A nearby guide tells them that the goal is to just enter the portal and see what is behind the crisis. It should be very brief and not at all dangeroius.
 >They come into this new world [[Earth\|Earth]] but in doing so they feel a [[Compendium/Lore/Misc Lore/strange dark force\|strange dark force]] grip their hearts and squeeze it. They come into contact with their first foe, a man who claims to be a [[Compendium/Lore/Misc Lore/negator\|negator]] with the power of [[UnToast\|UnToast]]. The party does not fully understand this concept yet.
->After a swift defeat of this foe, a member of the [[Knights Moralis\|Knights Moralis]] named [[Mualani Ibarareth\|Mualani Ibarareth]]  confronts them and is about to apprehend one of them for doing an act of [Forbidden Magic]. They meet [[Ichico Nemuri\|Ichico Nemuri]] who appears to be an ally. 
->To stop this, she asks her daughter [[Mico Vorgeil\|Mico Vorgeil]] to cast a memory erasure [[Spell\|Spell]]. Once they escape they are told of [[Sol\|Sol]] and his influence on the World. Through various apocalyptic events, including one called [[Compendium/Lore/Events/Ragnarok\|Ragnarok]], God has created and destroyed the world many times over until the most recent one. A previous group  (now called the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/The Flashborn\|The Flashborn]]) who also came in through a portal to knock out God and stop [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. Regardless, now [Sol] has captured Ichico's friends through [[UMA Soul\|UMA Soul]] who is a creature called a [[UMA\|UMA]]. 
->Ichico talks about how her friends and colleagues used to be part of an organization called the [[Compendium/Lore/Organizations/Union\|Union]] but now it is all but gone thanks to the capture of many of its members. She speaks of how the [[Compendium/Lore/Organizations/Union\|Union]] would partake in quests to defeat UMAs and gain [[Artifacts\|Artifacts]] that will give them the power to kill [[Sol\|Sol]]. She asks the party for their aid and in return, they will be provided food and board as well a tidy sum of gold. While hesistant at first, the party eventually concedes and agrees to help. Their first target is a [[UMA\|UMA]] called "[[UMA Colour\|UMA Colour]]"
+>After a swift defeat of this foe, a member of the [[Compendium/Lore/Organizations/Knights Moralis\|Knights Moralis]] named [[Mualani Ibarareth\|Mualani Ibarareth]]  confronts them and is about to apprehend one of them for doing an act of [Forbidden Magic]. They meet [[Ichico Nemuri\|Ichico Nemuri]] who appears to be an ally. 
+>To stop this, she asks her daughter [[Mico Vorgeil\|Mico Vorgeil]] to cast a memory erasure [[Spell\|Spell]]. Once they escape they are told of [[Sol\|Sol]] and his influence on the World. Through various apocalyptic events, including one called [[Compendium/Lore/Events/Ragnarok\|Ragnarok]], God has created and destroyed the world many times over until the most recent one. A previous group  (now called the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/The Flashborn\|The Flashborn]]) who also came in through a portal to knock out God and stop [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. Regardless, now [Sol] has captured Ichico's friends through [[UMA Soul\|UMA Soul]] who is a creature called a [[Compendium/Lore/Misc Lore/UMA\|UMA]]. 
+>Ichico talks about how her friends and colleagues used to be part of an organization called the [[Compendium/Lore/Organizations/Union\|Union]] but now it is all but gone thanks to the capture of many of its members. She speaks of how the [[Compendium/Lore/Organizations/Union\|Union]] would partake in quests to defeat UMAs and gain [[Artifacts\|Artifacts]] that will give them the power to kill [[Sol\|Sol]]. She asks the party for their aid and in return, they will be provided food and board as well a tidy sum of gold. While hesistant at first, the party eventually concedes and agrees to help. Their first target is a [[Compendium/Lore/Misc Lore/UMA\|UMA]] called "[[UMA Colour\|UMA Colour]]"
 
 #### marker
 > [!column|flex 3]
@@ -159,7 +159,7 @@ ___
 
 > [!quote|no-t] SUMMARY
 >In the night, [[Compendium/Party/Player Characters/Johannes\|Johannes]] enters his memories and meets someone, who, after seeing a memory not in a soul, grants him a boon. Meanwhile, a little bit of worldbuilding is created, on how potions are made. The sigils themselves dilute into the potion, and so the magic activates the sigils upon consumption. Neat. [[Potion-Making Process\|Potion-Making Process]]
->However, this night is no longer a peaceful one, as the town of [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Sapone/Sapone\|Sapone]] is raided by a group of [[gnolls\|gnolls]], humanoid hyena people, as many civilians and soldiers are being killed and eaten. Once the party defends themselves through combat, with some highlights including a nearly dead ally, catapulting one ally into a group of enemies, a human flag of death, and a desperate but failing attempt to break ACLs, we come across the [[Knights Moralis\|Knights Moralis]], and [[Mualani\|Mualani]], an officer whom we met, as well as someone who's daughter has been kidnapped, a blonde woman with a notable scar across her eye, whose name is [[Calysta\|Calysta]]. The [[gnolls\|gnolls]] have taken her to some place unknown, and asks our party to rescue her.
+>However, this night is no longer a peaceful one, as the town of [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Sapone/Sapone\|Sapone]] is raided by a group of [[gnolls\|gnolls]], humanoid hyena people, as many civilians and soldiers are being killed and eaten. Once the party defends themselves through combat, with some highlights including a nearly dead ally, catapulting one ally into a group of enemies, a human flag of death, and a desperate but failing attempt to break ACLs, we come across the [[Compendium/Lore/Organizations/Knights Moralis\|Knights Moralis]], and [[Mualani\|Mualani]], an officer whom we met, as well as someone who's daughter has been kidnapped, a blonde woman with a notable scar across her eye, whose name is [[Calysta\|Calysta]]. The [[gnolls\|gnolls]] have taken her to some place unknown, and asks our party to rescue her.
 >And so, our party leaves the town, following the path of corpses and blood, to find [[Calysta\|Calysta]], and the [[gnolls\|gnolls]] who kidnapped her. On this trek, we also come to learn of a few more things. The day, July 26, is also known as the [[Night of the Falling Stars\|Night of the Falling Stars]], the summer solstice. On this day, crime rates may have increased, people go missing more often, and yet, festivals are abound at this time. In addition, Ichico and the party make note of something: The gnolls' blood was different. Orange blood. The same is true to the casualties they find along the path, with either a deep, bright red or a light purple colouring of their blood. It is suspected that [[UMA Colour\|UMA Colour]] has something to do with this.
 >Once the trail of weirdly coloured blood ends, the party decides to head in the direction of the ruins near [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Tolstoy/Tolstoy\|Tolstoy]], an abandoned fortress. Once inside, the party finds gnoll claw marks, seems they were here. We also come to note the fire and light in these ruins, each with uncommon colours, blue, green, pure yellow, and the fire does not burn creatures. A not heating fire (at least the blue one, haven't tested the others).
 
@@ -228,7 +228,7 @@ ___
 > [!quote|no-t] SUMMARY
 >We recuperate on the way back to [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Sapone/Sapone\|Sapone]], and meet up with [[Calysta\|Calysta]]'s father who requested help. He thanks us, and points to the capital up north for resupplies of [[Compendium/Party/Player Characters/Johannes\|Johannes]]' revolver ammo, since the bullets are fairly advanced for the setting. [[Ichico Nemuri\|Ichico]] suspects something about [[Laika Spades\|Laika]], and intends to report to the [[Compendium/Lore/Organizations/Union\|Union]] about it. She leaves the party for their own devices, saying 'the records aren't right'
 >[[Compendium/Party/Player Characters/Star\|Star]] has a great desire to get a stuffed animal. She asks the gate guard patrolling the upper area where the toy store owner is to buy one. Despite her desperation, asking the guard didn't help as he informs her of how insensitive/crass her actions were considering the recent tragedy that just occured. She comes back to the inn. 
->[[Compendium/Party/Player Characters/Johannes\|Johannes]] follows [[Ichico Nemuri\|Ichico]] for a follow up on what she's saying. He is informed that [[Ichico Nemuri\|Ichico]] is also not of the current realm, in a sense. Asking for an explanation on [[UMA\|UMAs]], [[Compendium/Party/Player Characters/Johannes\|Johannes]] learns that despite [[UMA Colour\|UMA Colour]] dying, there is still colour in the world. That is because Colour is a [[Master Rule\|Master Rule]], where, despite dying, the concept that they represent continues. There are also the [[Superior Rules\|Superior Rules]], a being above Master Rules, like [[UMA Death\|UMA Death]], which perpetually exist. Ichico has further claims that, under [[King Irmin\|King Irmin]], there is no [[arcane geometry\|arcane geometry]] researcher named Laika, and so something must be up with this individual. UMA Colour could not have killed a body in such a way, and talks to JOHANNES about her findings.
+>[[Compendium/Party/Player Characters/Johannes\|Johannes]] follows [[Ichico Nemuri\|Ichico]] for a follow up on what she's saying. He is informed that [[Ichico Nemuri\|Ichico]] is also not of the current realm, in a sense. Asking for an explanation on [[Compendium/Lore/Misc Lore/UMA\|UMAs]], [[Compendium/Party/Player Characters/Johannes\|Johannes]] learns that despite [[UMA Colour\|UMA Colour]] dying, there is still colour in the world. That is because Colour is a [[Master Rule\|Master Rule]], where, despite dying, the concept that they represent continues. There are also the [[Superior Rules\|Superior Rules]], a being above Master Rules, like [[UMA Death\|UMA Death]], which perpetually exist. Ichico has further claims that, under [[King Irmin\|King Irmin]], there is no [[arcane geometry\|arcane geometry]] researcher named Laika, and so something must be up with this individual. UMA Colour could not have killed a body in such a way, and talks to JOHANNES about her findings.
 >[[Vivienne La Tour \|Vivi]] and [[Minthe Thistlestep\|Minthe Thistlestep]] go out for inventory cleanup, and find extra scraps outside the gate. Vivi asks Minthe on trying to create a specialized grappling hook, and talks about how focusing is really hard.
 >The next day, [[Ichico Nemuri\|Ichico]] brings the party out to a ship to leave to the nearest Union base, near [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Vanyra/Vanyra\|Vanyra]]. Unfortunately, the shopkeeper is swindling the party, but [[Compendium/Party/Player Characters/Johannes\|Johannes]] is very scary, and brings it up to the captain, who is also doing business. [[Compendium/Party/Player Characters/Johannes\|Johannes]] is less scary this time, but did get a discount on the fare. The party then travels the rest of the day to [[Arcan Gate\|Arcan Gate]], but doesn't stop there, and makes for [[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Vanyra/Vanyra\|Vanyra]].
 >The party finds a group of bandits from a crime organization called the [[Sinners\|Sinners]], and they converse about finding a date for a gala. Also something about the [[Chain of Acheron\|Chain of Acheron]] and the transportation of said artifact.
@@ -260,7 +260,7 @@ ___
 
 ![[session.png\|banner]]
 ###### Session O2
-<span class="sub2">:FasSun: DAY 03 &nbsp; | &nbsp; :FasTags: []</span>
+<span class="sub2">:FasSun: DAY 03 &nbsp; | &nbsp; :FasTags: [#location/city, #HeistPlanning, #Sub1Club]</span>
 ___
 
 > [!quote|no-t] SUMMARY
@@ -286,25 +286,15 @@ ___
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Session Notes/Session 06 (2025-03-29)/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
----
-type: notes
-locations:
-- "[[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Vanyra/Vanyra\|Vanyra]]"
-tags:
-- location/city
-- HeistPlanning
-- Sub1Club
-headerLink: "[[Session Notes/Session 06 (2025-03-29)#Session 06\|Session 06 (2025-03-29)]]"
----
 
 ![[session.png\|banner]]
 ###### Session 06
-<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: []</span>
+<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: [#location/city, #HeistPlanning, #Sub1Club]</span>
 ___
 
 > [!quote|no-t] SUMMARY
@@ -334,24 +324,15 @@ ___
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Session Notes/Session 07 (2025-04-26)/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
----
-type: notes
-locations:
-- "[[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Vanyra/Vanyra\|Vanyra]]"
-tags:
-- combat
-- location/city
-headerLink: "[[Session Notes/Session 07 (2025-04-26)#Session 07\|Session 07 (2025-04-26)]]"
----
 
 ![[session.png\|banner]]
 ###### Session 07
-<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: []</span>
+<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: [#combat, #location/city]</span>
 ___
 
 > [!quote|no-t] SUMMARY
@@ -371,7 +352,7 @@ ___
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Session Notes/Session 08 (2025-05-03)/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -409,7 +390,7 @@ ___
 
 
 
-> The Flashborn is the unofficial name of a series of people who were the first to experience the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]]. These individuls were forcibly taken from their current location when a portal opened up nearby. The most notable member is [[Ilya\|Ilya]] who has a connection with [[Compendium/Party/Player Characters/Star\|Star]]. Once they entered these portals, they were taken into a version of [[Earth\|Earth]] in the year 2017. [[Ichico Nemuri\|Ichico Nemuri]] and [[Mico Vorgeil\|Mico Vorgeil]] explained they had summoned them here to help them stop the ongoing [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. The whole world was only able to continue existing thanks to [[Shield Of Aegis\|Shield Of Aegis]] which had expanded to a giant size over the African Continent. With the promise of gold, a world on the brink of existence and begging, the Flashborn took the task of defeating [[Sol\|Sol]]. To do this, they were instructed to break into a facility in Germany, steal a rocket, use [[UMA MOVE\|UMA MOVE]] to fire that rocket into space and activate the [[New Eve Project\|New Eve Project]] and fire it into [[Sol\|Sol]]. When they broke in, they had to fight against [[Shen Xiang\|Shen Xiang]] and [[Chikara Shiogen\|Chikara Shiogen]] who were being forced to fight them by [[UMA SOUL\|UMA SOUL]]. They also briefly fought [[Tella Fren\|Tella Fren]] After that battle, they solved a puzzle to unlock the rocket sequence, entered Mars and took note of [[Xilonen Yakche\|Xilonen Yakche]], [[Mico Vorgeil\|Mico Vorgeil]]'s ex boyfriend who despite all the intelligence in the world, lacked the basic emotional insight to understand her needs. After fighting an invisible [[Sean Datz\|Sean Datz]], they broke into the core of the [[New Eve Project\|New Eve Project]] and de-stablized the anti-matter core. This alongside some clever positioning allowed them to fire it straight into the "Sun" which turned out to be an egg or container for [[Sol\|Sol]]. Before getting knocked out, it created [[UMA\|UMA]] Fantasy and [[UMA\|UMA]] Magic before exiling them from its world, changing the genre of [[Earth\|Earth]] to be more fantastical in nature. Before it was knocked unconsious, it also enacted [[Sol's Reformation Plan\|Sol's Reformation Plan]]. The Flashborn themselves were exhiled to their respective home-planes and branded with a mark of Sol. Giving them an age-less immortality. 
+> The Flashborn is the unofficial name of a series of people who were the first to experience the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]]. These individuls were forcibly taken from their current location when a portal opened up nearby. The most notable member is [[Ilya\|Ilya]] who has a connection with [[Compendium/Party/Player Characters/Star\|Star]]. Once they entered these portals, they were taken into a version of [[Earth\|Earth]] in the year 2017. [[Ichico Nemuri\|Ichico Nemuri]] and [[Mico Vorgeil\|Mico Vorgeil]] explained they had summoned them here to help them stop the ongoing [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. The whole world was only able to continue existing thanks to [[Shield Of Aegis\|Shield Of Aegis]] which had expanded to a giant size over the African Continent. With the promise of gold, a world on the brink of existence and begging, the Flashborn took the task of defeating [[Sol\|Sol]]. To do this, they were instructed to break into a facility in Germany, steal a rocket, use [[UMA MOVE\|UMA MOVE]] to fire that rocket into space and activate the [[New Eve Project\|New Eve Project]] and fire it into [[Sol\|Sol]]. When they broke in, they had to fight against [[Shen Xiang\|Shen Xiang]] and [[Chikara Shiogen\|Chikara Shiogen]] who were being forced to fight them by [[UMA SOUL\|UMA SOUL]]. They also briefly fought [[Tella Fren\|Tella Fren]] After that battle, they solved a puzzle to unlock the rocket sequence, entered Mars and took note of [[Xilonen Yakche\|Xilonen Yakche]], [[Mico Vorgeil\|Mico Vorgeil]]'s ex boyfriend who despite all the intelligence in the world, lacked the basic emotional insight to understand her needs. After fighting an invisible [[Sean Datz\|Sean Datz]], they broke into the core of the [[New Eve Project\|New Eve Project]] and de-stablized the anti-matter core. This alongside some clever positioning allowed them to fire it straight into the "Sun" which turned out to be an egg or container for [[Sol\|Sol]]. Before getting knocked out, it created [[Compendium/Lore/Misc Lore/UMA\|UMA]] Fantasy and [[Compendium/Lore/Misc Lore/UMA\|UMA]] Magic before exiling them from its world, changing the genre of [[Earth\|Earth]] to be more fantastical in nature. Before it was knocked unconsious, it also enacted [[Sol's Reformation Plan\|Sol's Reformation Plan]]. The Flashborn themselves were exhiled to their respective home-planes and branded with a mark of Sol. Giving them an age-less immortality. 
 
 </div></div>
 

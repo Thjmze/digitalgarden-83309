@@ -9,7 +9,7 @@
 ___
 
 > [!quote|no-t] SUMMARY
->A small trading town with a bustling economy built on selling soap amongst various other supplies to traders attempting to deliver goods to Vanyra via boat. They were the victims of a gnoll attack on July 26, 2019 in which many Saponians fled the city via river to places nearby out of fear it may occur again. This single attack took the lives of 100 Saponians with atleast 200 more suffering extreme casualties as a result. A [[Knights Moralis\|Knights Moralis]] patrol was able to prevent further casualties but they were severely under-supplied to deal with this kind of attack. Especially since they were just passing by on the way to resupply near [[Arcan Gate\|Arcan Gate]].  
+>A small trading town with a bustling economy built on selling soap amongst various other supplies to traders attempting to deliver goods to Vanyra via boat. They were the victims of a gnoll attack on July 26, 2019 in which many Saponians fled the city via river to places nearby out of fear it may occur again. This single attack took the lives of 100 Saponians with atleast 200 more suffering extreme casualties as a result. A [[Compendium/Lore/Organizations/Knights Moralis\|Knights Moralis]] patrol was able to prevent further casualties but they were severely under-supplied to deal with this kind of attack. Especially since they were just passing by on the way to resupply near [[Arcan Gate\|Arcan Gate]].  
 
 #### marker
 > [!column|flex 3]
@@ -57,7 +57,7 @@ dv.list(data);
 { .block-language-dataview}
 >
 >> [!note]- HISTORY
-- \-
+- [[Session Notes/Session 04 (2025-03-07)#Session 04\|Session 04 (2025-03-07)]]
 - \-
 
 { .block-language-dataview}

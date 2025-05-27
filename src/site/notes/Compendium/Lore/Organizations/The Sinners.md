@@ -33,8 +33,8 @@ The Sinners are comprised of 12 Members known only by their codenames
 11.  [[Decarabia\|Decarabia]]
 12. [[Sabock\|Sabock]]
 
-Their primary vault is called "Strix 0" or as many wannabe criminals know it "The Big One". 
+Their primary vault is called "Strix 0" or as many wannabe criminals know it "The Big One".  They also have a series of smaller holding facilities or mini-vaults. The one [[Compendium/Lore/Organizations/Sub One Club\|Sub One Club]] is planning to rob is one of these mini-vaults containing over 20,000 gp. 
 >>[!note]- HISTORY
-- \-
+- [[Session Notes/Session 06 (2025-03-29)#Session 06\|Session 06 (2025-03-29)]]
 
 { .block-language-dataview}

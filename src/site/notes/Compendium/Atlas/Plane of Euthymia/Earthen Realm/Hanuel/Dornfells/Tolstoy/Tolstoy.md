@@ -57,7 +57,7 @@ dv.list(data);
 { .block-language-dataview}
 >
 >> [!note]- HISTORY
-- \-
+- [[Session Notes/Session 04 (2025-03-07)#Session 04\|Session 04 (2025-03-07)]]
 - \-
 - \-
 

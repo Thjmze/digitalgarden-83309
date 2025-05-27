@@ -31,8 +31,8 @@ ___
 { .block-language-dataview}
 >
 >>[!note]- HISTORY
-- \-
-- \-
+- [[Session 05 (2025-03-29)#Session 05\|Session 05 (2025-03-29)]]
+- [[Session Notes/Session 04 (2025-03-07)#Session 04\|Session 04 (2025-03-07)]]
 - \-
 - \-
 
