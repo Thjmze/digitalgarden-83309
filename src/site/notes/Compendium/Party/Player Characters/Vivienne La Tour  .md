@@ -7,7 +7,7 @@
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: "Just Disappear!"  :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![Vivienne.jpg](/img/user/Assets/Images/Party/Vivienne.jpg)
+> ![[Vivienne.jpg\|Vivienne.jpg]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

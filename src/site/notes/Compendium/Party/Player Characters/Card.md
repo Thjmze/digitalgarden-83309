@@ -7,7 +7,7 @@
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Still my withering heart yearns for peace and mercy. But I'm ready for revolution now so let the blood stain the ground :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![Achillea.jpg](/img/user/Assets/Images/Party/Achillea.jpg)
+> ![[Achillea.jpg\|Achillea.jpg]]
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
