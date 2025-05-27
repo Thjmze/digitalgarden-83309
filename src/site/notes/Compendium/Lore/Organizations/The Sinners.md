@@ -35,5 +35,6 @@ The Sinners are comprised of 12 Members known only by their codenames
 
 Their primary vault is called "Strix 0" or as many wannabe criminals know it "The Big One". 
 >>[!note]- HISTORY
+- \-
 
 { .block-language-dataview}

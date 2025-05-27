@@ -33,6 +33,8 @@ Believes herself bisexual as she had not found any attraction towards either sex
 
 { .block-language-dataview}
 >>[!note]- HISTORY
+- [[Session Notes/Session 08 (2025-05-03)#Session 08\|Session 08 (2025-05-03)]]
+- \-
 - \-
 - \-
 

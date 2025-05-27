@@ -82,7 +82,7 @@ ___
 
 > [!quote|no-t] SUMMARY
 >The story begins at the aforementioned [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/portal\|portal]] of our party's primary realm starrting [[Minthe Thistlestep\|Minthe Thistlestep]], [[Compendium/Party/Player Characters/Johannes\|Johannes]], [[Compendium/Party/Player Characters/Star\|Star]], [[Vivienne La Tour  \|Vivienne La Tour  ]]], and [[Compendium/Party/Player Characters/Card\|"Wild Card"]]. All of them were contacted in some way or another during the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/Nexian Portal Crisis\|Nexian Portal Crisis]] by different parties and asked/ordered to come here with the notable exception of [[Vivienne La Tour  \|Vivienne La Tour  ]]. When they see many people seemingly unable to enter the portal, including some very powerful individuals, they decide to try and get in. A nearby guide tells them that the goal is to just enter the portal and see what is behind the crisis. It should be very brief and not at all dangeroius.
->They come into this new world [[Earth\|Earth]] but in doing so they feel a [[Compendium/Lore/Misc Lore/strange dark force\|strange dark force]] grip their hearts and squeeze it. They come into contact with their first foe, a man who claims to be a [[negator\|negator]] with the power of [[UnToast\|UnToast]]. The party does not fully understand this concept yet.
+>They come into this new world [[Earth\|Earth]] but in doing so they feel a [[Compendium/Lore/Misc Lore/strange dark force\|strange dark force]] grip their hearts and squeeze it. They come into contact with their first foe, a man who claims to be a [[Compendium/Lore/Misc Lore/negator\|negator]] with the power of [[UnToast\|UnToast]]. The party does not fully understand this concept yet.
 >After a swift defeat of this foe, a member of the [[Knights Moralis\|Knights Moralis]] named [[Mualani Ibarareth\|Mualani Ibarareth]]  confronts them and is about to apprehend one of them for doing an act of [Forbidden Magic]. They meet [[Ichico Nemuri\|Ichico Nemuri]] who appears to be an ally. 
 >To stop this, she asks her daughter [[Mico Vorgeil\|Mico Vorgeil]] to cast a memory erasure [[Spell\|Spell]]. Once they escape they are told of [[Sol\|Sol]] and his influence on the World. Through various apocalyptic events, including one called [[Compendium/Lore/Events/Ragnarok\|Ragnarok]], God has created and destroyed the world many times over until the most recent one. A previous group  (now called the [[Compendium/Lore/Misc Lore/Lore In Campaigns Past/The Flashborn\|The Flashborn]]) who also came in through a portal to knock out God and stop [[Compendium/Lore/Events/Ragnarok\|Ragnarok]]. Regardless, now [Sol] has captured Ichico's friends through [[UMA Soul\|UMA Soul]] who is a creature called a [[UMA\|UMA]]. 
 >Ichico talks about how her friends and colleagues used to be part of an organization called the [[Compendium/Lore/Organizations/Union\|Union]] but now it is all but gone thanks to the capture of many of its members. She speaks of how the [[Compendium/Lore/Organizations/Union\|Union]] would partake in quests to defeat UMAs and gain [[Artifacts\|Artifacts]] that will give them the power to kill [[Sol\|Sol]]. She asks the party for their aid and in return, they will be provided food and board as well a tidy sum of gold. While hesistant at first, the party eventually concedes and agrees to help. Their first target is a [[UMA\|UMA]] called "[[UMA Colour\|UMA Colour]]"
@@ -247,6 +247,44 @@ ___
 
 
 
+---
+type: notes
+locations:
+- "[[Compendium/Atlas/Plane of Euthymia/Earthen Realm/Hanuel/Dornfells/Vanyra/Vanyra\|Vanyra]]"
+tags:
+- location/city
+- HeistPlanning
+- Sub1Club
+headerLink: "[[Session Notes/Session 06 (2025-03-29)#Session 06\|Session 06 (2025-03-29)]]"
+---
+
+![[session.png\|banner]]
+###### Session 06
+<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: []</span>
+___
+
+> [!quote|no-t] SUMMARY
+>Session 6 Summary  
+>The party is given a set of contacts from [[Compendium/NPC's/Sozantos\|Sozantos]] for the heist.  
+>Floor Plans -Ida Kitagawa 15% - The notes are more basic, and more so run on intuition. If we do a good job, she'll offer a lower rate of 10%. 
+>Juven Hien 15% - The notes are much more comprehensive. However, if we do a bad job, he'll require a higher cut of 20%.  
+>Tool Provider
+>Baam 10% - It's at a cheaper rate, but we must look for them first.
+> Endorsi 20% - Also very reliable in preparation, but at a higher rate. 
+>  Expert -Urek Mazino ??% - A dangerous individual, whom we will contact their assistant. How much he will ask is random and unpredictable
+>   Sozantos 10% as a commissioner's fee. 
+>    For now, the party has chosen Juven Hien for the floor plans, and our meeting with him will occur in a week. They are also considering to go on the hunt for Baam. In the meantime, with the party still considered weak, they must prepare and get stronger. In addition, [[Compendium/Lore/Organizations/The Sinners\|The Sinners]] would be hot on their tail, like with the [[WallFacers\|WallFacers]], whom no one knows about. They are told to go to the [[Adventurer's guild\|Adventurer's guild]] to register, as well as a place to stay. The inn that is considered cheap is the party's choice, and was able to reduce the number of rooms to rent to two.  After a long night's rest, and a long cooking session with a fish and herbs, the party arrives at the adventurer's guild for registration. At registration, the party needs to decide on a party name.  And so, they have dubbed themselves the [[Compendium/Lore/Organizations/Sub One Club\|Sub One Club]].  As a test of abilities, they are to undergo a simulation in a lower floor. After going down a ladder hidden in the globe in the guild building, they enter the simulation room, and start the test. In addition, there are mystery panels on the ground.
+
+#### marker
+> [!column|flex 3]
+>> [!info|felx] NPC'S:
+>> - [[Characters\|Characters]] (status)
+>
+>> [!example|flex] LOCATIONS:
+>> - [[Locations\|Locations]] (status)
+>
+>> [!important|flex] QUESTS:
+>> - [[Quests\|Quests]] (status)
 
 
 </div></div>
