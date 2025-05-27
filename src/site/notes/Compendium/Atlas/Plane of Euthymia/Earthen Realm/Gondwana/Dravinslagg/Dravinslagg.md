@@ -15,7 +15,7 @@ ___
 > [!column|flex 3]
 > > [!hint]-  NPC's
 > > <input type="checkbox" id="npc"/><ul class="sortMenu"><li class="sortIcon">:RiListSettingsLine:<ul class="dropdown npcedit"><li><label for="npc" class="directLabel active">Direct Links Only</label></li><li><label for="npc" class="childLabel">Include Sub-Locations</label></li></ul></li></ul>
-> ><pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;&gt;'
+> ><pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
     at DataviewInlineApi.eval (plugin:dataview:19027:21)
     at evalInContext (plugin:dataview:19028:7)
     at asyncEvalInContext (plugin:dataview:19038:32)
@@ -25,7 +25,8 @@ ___
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
     at Generator.next (&lt;anonymous&gt;)
-    at fulfilled (plugin:digitalgarden:77:24)</pre>dataviewjs
+    at fulfilled (plugin:digitalgarden:77:24)</pre>
+>>```dataviewjs
 dv.container.className += ' npcChild';
 let page = dv.current().file.path;
 let pages = new Set();
