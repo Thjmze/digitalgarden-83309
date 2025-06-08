@@ -7,7 +7,7 @@
 :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: "It is better to die on your feet than live on your knees" :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![JOHANNES.png](/img/user/Assets/Images/Party/Johannes.png)
+> ![Johannes.png](/img/user/Assets/Images/Party/Johannes.png)
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
@@ -43,10 +43,10 @@ ___
 { .block-language-dataview}
 >>[!note]- HISTORY
 - [[Session Notes/Session 08 (2025-05-03)#Session 08\|Session 08 (2025-05-03)]]
-- [[Session Notes/Session 07 (2025-04-26)#Session 07\|Session 07 (2025-04-26)]]
+- [[Session Notes/Session 07 (2025-04-26)#Session 7\|Session 07 (2025-04-26)]]
 - [[Session Notes/Session 04 (2025-03-07)#Session 04\|Session 04 (2025-03-07)]]
 - \-
 - \-
-- \-
+- [[Session Notes/Session 03 (2025-03-01)#Session 03\|Session 03 (2025-03-01)]]
 
 { .block-language-dataview}

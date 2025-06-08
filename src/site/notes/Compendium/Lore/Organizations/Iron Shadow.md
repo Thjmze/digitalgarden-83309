@@ -17,6 +17,6 @@ The Iron Shadow is a major criminal organization on Earth. Formed nearly 200 yea
 
 { .block-language-dataview}
 >>[!note]- HISTORY
-- [[Session Notes/Session 07 (2025-04-26)#Session 07\|Session 07 (2025-04-26)]]
+- [[Session Notes/Session 07 (2025-04-26)#Session 7\|Session 07 (2025-04-26)]]
 
 { .block-language-dataview}

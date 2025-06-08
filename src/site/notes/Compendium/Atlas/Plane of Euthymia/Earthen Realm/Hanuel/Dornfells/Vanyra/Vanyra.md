@@ -58,8 +58,8 @@ dv.list(data);
 { .block-language-dataview}
 >
 >> [!note]- HISTORY
-- [[Session Notes/Session 07 (2025-04-26)#Session 07\|Session 07 (2025-04-26)]]
-- [[Session Notes/Session 06 (2025-03-29)#Session 06\|Session 06 (2025-03-29)]]
+- \-
+- [[Session Notes/Session 07 (2025-04-26)#Session 7\|Session 07 (2025-04-26)]]
 - [[Session 05 (2025-03-29)#Session 05\|Session 05 (2025-03-29)]]
 - [[Session Notes/Session 04 (2025-03-07)#Session 04\|Session 04 (2025-03-07)]]
 
