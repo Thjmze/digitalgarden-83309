@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Export/","tags":["gardenEntry"]}
 ---
 
+Map of world
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/House Rules/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -369,6 +371,145 @@ ___
 > You feel a nauseating feeling come over you, your vision goes black and you wake up as a Brewmaster checking up on his wine cellar/distillery. You hear two giant booms outside and you rush to your bedroom door to look outside. When you look outside through your bedroom window, the sky is a deep shade of red and you see two extremely big pillars fashioned in the shape of hammers within 40km of your little abode. On top of it seems to be an object you can't make out. As you feel a small sense of safety, a dragon's claw seems to hit the top of this structure and a shockwave is created. You duck for cover as the glass of your window seems to shatter. Picking yourself up from the fragments, you see fire rapidly spreading out towards your home. The luscious green landscape now set ablaze (likely spread as a result of the shockwave)
 > 
 >Entering the cave, the party comes across two frost salamanders. However, while it may seem some headway is made, the frost salamanders proved to be too much for the party, and so they made a hasty retreat to give a report to the adventurer's guild over a reassessment of the difficulty.
+
+#### marker
+> [!column|flex 3]
+>> [!info|felx] NPC'S:
+>> - [[Characters\|Characters]] (status)
+>
+>> [!example|flex] LOCATIONS:
+>> - [[Locations\|Locations]] (status)
+>
+>> [!important|flex] QUESTS:
+>> - [[Quests\|Quests]] (status)
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Session Notes/Session 09 (2025-06-07)/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+---
+type: notes
+locations:
+ - 
+tags:
+ - 
+headerLink: "[[Session Notes/Session 09 (2025-06-07)#Session 09\|Session 09 (2025-06-07)]]"
+---
+
+![[session.png\|banner]]
+###### Session 09
+<span class="sub2">:FasSun: DAY 00 &nbsp; | &nbsp; :FasTags: []</span>
+___
+
+> [!quote|no-t] SUMMARY
+>  After a rocky dam broke, flooding their cave, the [[ Sub One Club\| Sub One Club]] resurfaced in the middle of a snow storm. Needing shelter, they headed toward nearby ruins and set up a temporary camp. While taking watch shifts, Vivi noticed a strange phenomenon in the Aurora Borealis—an eerie snake-like movement coiling through the northern lights.
+>  Earlier, the party successfully hunted and butchered a limping frost salamander, yielding about **247.9 lbs of meat** (84.4 + 116.5 + 47) and approximately **10.98 lbs of skin**. Though they had far more meat than needed, they kept as much as they could and sold the leftovers + skin around town, each making about **53 gp and 8 silver**. Upon returning to the [[Adventurer’s Guild\|Adventurer’s Guild]], they gave 100 lbs of meat to Allayna, who questioned their sanity for butchering so much when only a few pounds would suffice for the quest of procuring some meat for a man's date with a common rural woman he wanted to impress (though Allayna believes him to be kinda pathetic/sweet). 
+>  The party then split into pairs to sell their goods throughout town before regrouping to meet with [[Juven Hien\|Juven Hien]]. Juven pressed them on their bold plan to rob the [[Sinners\|Sinners]], a ruthless criminal organization that punishes any of those who dare to challenge them.  The reason behind the heist is [[Ichico Nemuri\|Ichico Nemuri]]’s request: she wants the [[Chain of Acheron\|Chain of Acheron]] stolen from the Sinners. Ichico is connected to the Sinners due to their near-monopoly on health potions and thus is unable to conduct this heist herself but she can do it cold-war style using the [[Compendium/Lore/Organizations/Sub One Club\|Sub One Club]]
+>  Juven shared how Sozantos once saved his ass from a sting operation by the [[Compendium/Lore/Organizations/Knights Moralis\|Knights Moralis]], who would erase memories of anyone caught. After finally gaining his respect despite his belief that adventurers are just beefy dirty hunks who don't have the elegance of a true criminal, Juven negotiated a **15% cut** from the heist’s proceeds. He spoke of “The Big One” — the Sinners’ vault headquarters rumored to hold **200 million gp**, enough to topple or buy a small nation. While Juven and Sozantos escaped when things went south, [[Baam\|Baam]] who is described as a tall sneaky half-orc was caught, explaining his long disappearance. His current whereabouts remain unknown and Juven joked he may or may not be dead at this point. 
+>  The party finalized plans to utilize **Radar systems, Teleportation Portals (TP Portals), and sabotage the Sinners’ alarm systems** to maximize their chances. They chose to enter through the cave, go underwater to avoid detection and break into the building using the main entrance to the underground sewage system. [[Juven Hien\|Juven Hien]] remarked that the magical vault was so advanced in its lock-breaking strategy it has to be done in coordination with a team which after it goes through a magical decrypter, will look like a maze that the team will have to navigate someone through who cannot see the map. In addition, he mentioned quite crypticially that there is a section that involves disappearing walls, a ghost and strange mechanics. 
+>  Next steps include finding [[Baam\|Baam]], recruiting the wild card:  [[Compendium/NPC's/Urek Mazino\|Urek Mazino]], and continuing to refine the heist strategy.
+Mechanics
+
+
+
+#### Juven Hien Explaining his debt to Sozantos
+"I owed Sozantos a favour and he asked me to take you folks in to rob this joint. If it wasn't for him realizing the Dornfells Vault was a sting operation by the Knights Moralis, I would've been toast. For crimes like ours, they would've erased your memory till you barely know who you are anymore. I'm sure he's already impressed on you that this isn't a petty venture but I'll reiterate. The sinners ain't the ones one should be messing with. If I had a connection for every single person that has died trying to break into that vault alone, I'd have built an information network even larger than the one I have now.
+
+##### Mechanics:
+1. There is a clock that goes up by 1 minute after a combat and for every non-combat action you take. You will trade in minutes for the amount of money you steal from the vault. 
+2. The alert level determines how fucked you are. As you heighten the alert level, you will encounter more obstacles such as increased guard patrol, more traps (some of which cannot be detected) or reinforcements who arrive at alert level 3 but do not actively know your location until Alert level 4.  They are the same level of difficulty as two frost salamanders (aka super fucked)
+3. The maze will consist of people trying to maneuver someone through a labyrinth except one person will not have vision for the whole endeavour causing them to see a whole different map than the rest. This means you must coordinate tactically. In addition, the maze might have invisible obstacles to completion, a defense system including enemies amongst various other lovely things. 
+4. The radar shows nearby traps but does not have high precision. 
+
+
+# Heist Mini-Game Mechanical Summary
+
+---
+
+## 1. **Approach Structure**
+
+- **Two main approaches:**
+    
+    - **Bottom Up** (3 sequential choices)
+        
+    - **Top Down** (3 sequential choices)
+        
+- Each approach consists of **3 choices (tokens)** with 3 possible numerical values each (low, mid, high).
+    
+
+---
+
+## 2. **Token Values**
+
+- Each choice is associated with three possible token values representing the quality or cleverness of the plan.
+    
+- Tokens are drawn from predefined sets (e.g., Cave: 2/3/5; City Catacombs: 5/7/8; etc.).
+    
+
+---
+
+## 3. **Skill Checks to Unlock Tokens**
+
+- Skill check **DC = 13 (Moderate difficulty)** recommended
+    
+- Players roll relevant skills (Stealth, Athletics, etc.) to reveal and activate tokens
+    
+- Failure to activate a token means the pathway/token is lost (cannot be used)
+    
+
+---
+
+## 4. **Turn Economy**
+
+- **Each token requires:**
+    
+    - **1 turn to reveal + 1 turn to activate**, or
+        
+    - **1 turn to gamble activate blindly (no reveal)**
+        
+- **Recommended turns per player:**
+    
+    - **4 players:** 4 turns each (total 16 turns)
+        
+    - **5 players:** 3 turns each (total 15 turns)
+        
+    - **6 players:** 3 turns each plus extra turn (total ~18 turns)
+        
+- Turn management encourages balancing risk vs safety (gamble vs reveal)
+    
+
+---
+
+## 5. **Outcome Thresholds (Cumulative Token Sum)**
+
+### Adjusted for approx 20% best success:
+
+|Outcome|Bottom Up Threshold|Top Down Threshold|
+|---|---|---|
+|**Best**|Sum ≥ 17|Sum ≥ 16|
+|**Acceptable**|Sum 12 – 16|Sum 11 – 15|
+|**Worst**|Sum ≤ 11|Sum ≤ 10|
+
+End of Planning: Okay so you'll need a fair bit of equipment
+
+Need Magical Decrypter 
+Choose 3
+-  You'll need a selective magic reuptake inhibitor 
+-  Need a way to knock out guards
+-  Trap/Radar detector
+-  Radar upgrader
+-  Poison Water supply (extra time)
+-  TP portals 
+-  Sabotage Alarm Systems (extra alert levels)
+- False Decoy 
+-  Bigger bag
+
+
 
 #### marker
 > [!column|flex 3]
