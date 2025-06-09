@@ -34,6 +34,6 @@ ___
 - [[Session 05 (2025-03-29)#Session 05\|Session 05 (2025-03-29)]]
 - [[Session Notes/Session 04 (2025-03-07)#Session 04\|Session 04 (2025-03-07)]]
 - \-
-- [[Session Notes/Session 03 (2025-03-01)#Session 03\|Session 03 (2025-03-01)]]
+- \-
 
 { .block-language-dataview}
