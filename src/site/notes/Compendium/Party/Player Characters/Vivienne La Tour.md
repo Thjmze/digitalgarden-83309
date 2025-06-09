@@ -13,7 +13,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Level   | `6` |
 > | :RiSwordFill: Class |  `Rogue/Ranger`|
-> | :RiSwordFill: Archetype |  `?`|
+> | :RiSwordFill: Archetype |  `Soulknife + Eventual Fae`|
 > |  :FasUserGroup: Race |  `Half-Elf`|
 
 > [!quote|no-t]
