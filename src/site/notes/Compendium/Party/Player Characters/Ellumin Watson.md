@@ -46,8 +46,3 @@ A gealltanas chun buail
 :FasQuoteRight:
 (“A Promise To Burn” In deep sylvian) 
 
-
-#### marker
-> [!column|flex 3]
->> [!info]- STORYLINES:
-
