@@ -11,7 +11,7 @@ _“When Supreme Knightmaster Zodd wielded the Chain, my very will to resist dis
 
 _“I watched a spy, unshakable for years, fold and betray his homeland mere moments after the Chain touched him.”_ - Anonymous torturer with the [[Compendium/Lore/Organizations/Iron Shadow\|Iron Shadow]]
 
-_“The metal itself defies all attempts to break or melt it. I shattered obsidian knives trying to chip even a sliver and hid the damage from my boss. My forge had to burn hotter than the fires of [[Agni\|Agni]] to even soften it. When I alloyed it with brittle pewter, the resulting blade was sharper than even tempered  Steel.”_ - Unknown criminal blacksmith
+_“The metal itself defies all attempts to break or melt it. I shattered obsidian knives trying to chip even a sliver and hid the damage from my boss. My forge had to burn hotter than the fires of [[Compendium/Lore/Deities/Agni\|Agni]] to even soften it. When I alloyed it with brittle pewter, the resulting blade was sharper than even tempered  Steel.”_ - Unknown criminal blacksmith
 
 The Chain’s most terrifying attribute is its power over the minds and bodies of those it touches. Acheron McTavish’s warriors consented to wield it, yet the weapon effectively puppeteers its victims—forcing their movements into uncanny, preternatural coordination before death and even beyond. This control ends only when a particular bone shatters—a dark secret lost to history. But it too can also extract information straight from the soul, even if it is buried under layers of mental defenses or "forgotten" from their active memory. 
 

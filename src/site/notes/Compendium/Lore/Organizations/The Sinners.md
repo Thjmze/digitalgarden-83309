@@ -8,10 +8,10 @@
 ___
 
 > [!quote|no-t]
->![[SinnerLogo.png\|right wm-sm]]Profile of The Sinners, the chaotic evil aligned organization.
+:FasQuoteLeft: If the world may fall at any second, why not live life like it is your last moment?  :FasQuoteRight:
+>![SinnerSymbol.jpg|right wm-sm](/img/user/Assets/SinnerSymbol.jpg)Profile of The Sinners, the chaotic evil aligned organization.
 
 #### marker
- :FasQuoteLeft: If the world may fall at any second, why not live life like it is your last moment?  :FasQuoteRight:
 > [!column|flex 3]
 >>[!hint]- NPC's
 - - - Sozantos Veyliss#Sozantos Veyliss
@@ -27,15 +27,15 @@ The Sinners are comprised of 12 Members known only by their codenames
 3. [[Abigor\|Abigor]]
 4. [[Marchosias\|Marchosias]]
 5. [[Phenex\|Phenex]]
-6. [[Paimonas\|Paimonas]]
-7. [[Buer\|Buer]]
-8. [[Dantalion\|Dantalion]]
+6. [[Buer\|Buer]]
+7. [[Paimonas\|Paimonas]]
+8. [[Dainsleif\|Dainsleif]]
 9. [[Raum\|Raum]]
 10. [[Stolas\|Stolas]]
 11.  [[Decarabia\|Decarabia]]
 12. [[Sabock\|Sabock]]
 
-Their primary vault is called "Strix 0" or as many wannabe criminals know it "The Big One".  They also have a series of smaller holding facilities or mini-vaults. The one [[Compendium/Lore/Organizations/Sub One Club\|Sub One Club]] is planning to rob is one of these mini-vaults containing over 20,000 gp. 
+Their primary vault is called "Strix 0" or as many wannabe criminals know it "The Big One".  They also have a series of smaller holding facilities or mini-vaults. The one [[Compendium/Lore/Organizations/Sub One Club\|Sub One Club]] is planning to rob is one of these mini-vaults containing over 20,000 gp but it is the second largest in the mini-vault collection. It is called "Fort Korihor". 
 >>[!note]- HISTORY
 - [[Session Notes/Session 06 (2025-03-29)#Session 06\|Session 06 (2025-03-29)]]
 

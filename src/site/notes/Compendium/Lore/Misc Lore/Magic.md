@@ -13,3 +13,5 @@ The study of how to make magic more efficiently, the [[Compendium/Lore/Organizat
 Spell duration: Not all spells are crafted the same. The greater the effect on reality, the greater the mana drain. A spell that can turn 1sqft of water into a small animal for 10 minutes for waste disposal will have a greater duration than a spell that can boil a lake. Part of this is due to the spell glyph increase with increasing spell complexity but it is also due to mana causing the accelerated drain of nearby mana. It is for this reason that some Arcane Geometrists such as [[Laika Stence\|Laika Stence]] have proposed a new type of wand/pen to draw magic. This dual-ink pen would push forth two differing types of ink with unque mana signatures at alternating intervals to ensure no two sufficiently large blots of mana-ink would come into contact with each other.  
 
 
+## Cleric domains
+
