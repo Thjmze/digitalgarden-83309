@@ -36,6 +36,7 @@
 - **Last Stand**: While making death saves you may instantly **fail 2** saves to take **one action** (no self-healing).  
   • Attacks auto-hit and crit.  
   • Spells are cast two levels higher without using a slot.
+- **Flanking**: Grants the people on opposite sides of an enemy advantage. In addition, ranged attacks (ie more than 10ft away) gain a +2 to hit b/c imagine trying to defend two sides at once + getting shot at?? Sucks ass fr fr
 - **Hidden HP & Death Saves**:  
   • HP is described narratively (“bleeding heavily”); numbers stay secret from other players.  
   • Death saves are rolled **to GM only**.  

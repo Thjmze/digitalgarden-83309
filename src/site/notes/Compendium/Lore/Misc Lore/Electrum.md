@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/Compendium/Lore/Misc Lore/Electrum/"}
+---
+
+## Electrum 
+An archaic out-dated form of currency used between 1000 PR (pre-Ragnarok) and 20 PR, it has been phased out in many countries. However, it is still accepted as legal tender within most nations. Worth roughly 1/2 of a gold piece or 5 silver, it doesn't fit neatly into conversion rates but despite it being out of circulation, a business must accept it if offered. Once it has electrum. it is supposed to send it back to the nearest treasury to be smelted down. The primary advantage that people still use electrum for is to facilitate underground trade deals. Unlike gold, silver or platinum pieces, electrum does not come with any identifying marks. So if one coin of electrum was used in an illegal transaction, it wouldn't be able to be traced back to said purchase legal or otherwise. Thus it is frequently used in black markets when trying to avoid taxes and the like. Though some sellers do not care and will accept gold nonethless. After all, even though it can't be linked back to you in a crime, carrying or depositing a large amount of electrum can be used as evidence against you in a sentencing. 
