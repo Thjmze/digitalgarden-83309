@@ -57,6 +57,7 @@ dv.list(data);
 { .block-language-dataview}
 >
 >> [!note]- HISTORY
+- \-
 
 { .block-language-dataview}
 
